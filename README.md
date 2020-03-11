@@ -7,9 +7,12 @@ This was a homework assignment where we refactored the html and css of a marketi
 ## Completed
 ```
 Changed the html tags for semantic tags
-Combined classes where applicable
-Updated order of tags and classes in css to flow more logically
-Added alt attributes to images 
+Fixed indentation of html tags
+Combined classes where applicable in html and css
+Updated order of tags and classes in html and css to flow more logically
+Added alt attributes to images
+Added title to background image
+Added comments to html and css files
 ```
 
 ## User Story
@@ -35,3 +38,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Screenshot
+![Screenshot of website](https://github.com/ryangautier1/homework1/blob/master/Screenshot.PNG?raw=true)
